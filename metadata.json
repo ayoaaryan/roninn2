@@ -1,0 +1,8 @@
+{
+  "name": "Ronin's Edge",
+  "description": "A 3D third-person samurai action game featuring deflection-based combat, posture breaks, grappling, stealth, and epic boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
